@@ -3,7 +3,7 @@
 /_test/
 /_test*.*
 /_todo.txt
-/.scratch/
+/.scratch
 
 # Build
 dist/
