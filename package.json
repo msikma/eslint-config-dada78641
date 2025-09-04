@@ -1,5 +1,6 @@
 {
   "name": "@dada78641/eslint-config",
+  "description": "A personal ESLint config",
   "version": "1.0.0",
   "type": "module",
   "main": "eslint.config.js",
