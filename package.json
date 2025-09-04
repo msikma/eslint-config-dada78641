@@ -7,6 +7,9 @@
   "exports": {
     ".": "./eslint.config.js"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "@eslint/js": "^9.34.0",
     "@stylistic/eslint-plugin": "^5.3.1",
