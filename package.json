@@ -1,7 +1,7 @@
 {
   "name": "@dada78641/eslint-config",
   "description": "A personal ESLint config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "main": "eslint.config.js",
   "exports": {
@@ -10,7 +10,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "devDependencies": {
+  "dependencies": {
     "@eslint/js": "^9.34.0",
     "@stylistic/eslint-plugin": "^5.3.1",
     "eslint": "^9.34.0",
